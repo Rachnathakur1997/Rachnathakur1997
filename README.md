@@ -2,7 +2,7 @@
 <h3 align="center">Insight Hunter | Python & SQL Maestro | Transforming Raw Data into Strategic Decisions | Passionate about Data-Driven Solutions 🚀 Join me on this data journey!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1364317541/photo/data-scientists-hand-of-programmer-touching-and-analyzing-development-at-various-information.jpg?s=612x612&w=0&k=20&c=mTnPYtYYxbyOdyeBQcu8LIWwD-31SIIfXSd0IEhhpYg=">
 
-
+- 🌍 I'm located in **India**
 - 🤝 I’m open to colaborating on **Projects on Machine Learning, Python.**
 
 - 📧 You can contact me at **rachnathakur8709@gmail.com**
